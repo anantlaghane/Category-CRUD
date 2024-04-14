@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="product" href="https://github.com/anantlaghane/Product-CRUD.git">
+      
 
 </head>
 <body>
@@ -69,12 +69,11 @@
 </br>
 <h4>2) Product CRUD operation.</h4>
     <p>Below are the APIs required to be developed </p>
-
-  </link>
-
     
 </body>
 </html>
+
+href="https://github.com/anantlaghane/Product-CRUD.git
 
 
 
