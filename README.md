@@ -29,7 +29,7 @@
         </tr> 
         <tr> 
             <td>3</td> 
-            <td>http://localhost:8080/category/102</td> 
+            <td>http://localhost:8080/category/202</td> 
             <td>GET category by Id</td> 
         </tr> 
      <tr> 
