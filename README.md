@@ -70,7 +70,7 @@
 <h4>2) Product CRUD operation.</h4>
     <p>Below are the APIs required to be developed </p>
 
-  <p> </product> </p> 
+  </product> 
 
     
 </body>
