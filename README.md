@@ -50,19 +50,19 @@
     
 </br>
 <h6>GET all the categories</h6>
-<img src="CRUD1/GET all.png" alt="All">
+<img src="CRUD2/GET all.png" alt="All">
 </br>
 <h6>POST - create a new categories</h6>
-<img src="CRUD1/POST.png" alt="new">
+<img src="CRUD2/POST.png" alt="new">
 </br>
 <h6>GET category by Id</h6>
-<img src="CRUD/GET id.png" alt="Id">
+<img src="CRUD2/GET id.png" alt="Id">
 </br>
 <h6>DELETE - Delete category by id</h6>
-<img src="CRUD1/DELETE.png" alt="Delete">
+<img src="CRUD2/DELETE.png" alt="Delete">
 </br>
 <h6>PUT - update category bin Id</h6>
-<img src="CRUD/PUT.png" alt="Delete">
+<img src="CRUD2/PUT.png" alt="Delete">
 
 </br>
 <h4>2) Product CRUD operation.</h4>
