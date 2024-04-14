@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="product" href="https://github.com/anantlaghane/Product-CRUD.git">
+
 </head>
 <body>
 <H1>Java Machine Test</H1>
@@ -68,7 +70,7 @@
 <h4>2) Product CRUD operation.</h4>
     <p>Below are the APIs required to be developed </p>
 
-  <p> <link rel="product" href="https://github.com/anantlaghane/Product-CRUD.git"> </p> 
+  <p> </product> </p> 
 
     
 </body>
