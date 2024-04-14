@@ -64,7 +64,9 @@
 <h6>PUT - update category bin Id</h6>
 <img src="CRUD/update.png" alt="Delete">
 
-
+</br>
+<h4>2) Product CRUD operation.</h4>
+    <p>Below are the APIs required to be developed </p>
 
     
 </body>
