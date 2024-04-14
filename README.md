@@ -47,7 +47,7 @@
 </br>
 </br>
 
-    </br>
+    
 </br>
 <h6>GET all the categories</h6>
 <img src="CRUD/All.png" alt="All">
